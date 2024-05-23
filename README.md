@@ -2,12 +2,12 @@
 
 A blog webapp developed using react and appwrite.
 
- Features :
+Features :
 * Basic Blog Features- Blog list
 * Add/Edit Blogs
 * Authentication
 
-## Technical Details :
+Technical Details :
 
 * React 18 with Tailwind CSS
 * Redux Toolkit
