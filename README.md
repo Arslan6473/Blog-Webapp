@@ -1,8 +1,15 @@
-# React + Vite
+# Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A blog webapp developed using react and appwrite.
 
-Currently, two official plugins are available:
+ Features :
+* Basic Blog Features- Blog list
+* Add/Edit Blogs
+* Authentication
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technical Details :
+
+* React 18 with Tailwind CSS
+* Redux Toolkit
+* React Router v6
+* Appwrite
